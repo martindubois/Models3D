@@ -1,0 +1,7 @@
+
+# Author    Martin Dubois
+# Copyright (C) 2025 Martin Dubois
+# Product   Models3D
+# File      .gitignore
+
+*.stl
